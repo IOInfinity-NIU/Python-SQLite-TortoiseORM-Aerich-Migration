@@ -1,4 +1,4 @@
 # Python-SQLite-TortoiseORM-Aerich-Migration
 
 
-**[Youtube Playlist](https://github.com/user/repo/blob/branch/other_file.md)**
+**[Youtube Playlist](https://www.youtube.com/playlist?list=PLHkheHSttkDMK_14z798dXWgwV7rqJJZ8)**
