@@ -1,0 +1,4 @@
+[tool.aerich]
+tortoise_orm = "aerich_config.ORM_MIGRATION_SQLITE"
+location = "./migrations"
+src_folder = "./."
