@@ -1,4 +1,4 @@
-# Access SQLite with Tortoise ORM framework (Python) and Aerich migration tool
+# Access SQLite database with Tortoise ORM framework (Python) and Aerich migration tool
 
 ![Youtube Playlist](TortoiseORMAerichMigrationSQLite.png)
 
